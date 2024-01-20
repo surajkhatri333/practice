@@ -2,4 +2,4 @@
 for practicing open source
 my name is suraj kahtri.
 <br>
-i am a btech cse 2nd year ubdergraduate student.
+i am a btech cse 2nd year ubdergraduate student at quantum university.
